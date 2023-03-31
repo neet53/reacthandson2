@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(skyblue,pink,rgb(248, 248, 210));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+input,button{
+    border-radius: 35px;
+    border: 2px solid black;
+    height: 54px;
+    width: 250px;
+    background-color: rgb(197, 233, 247);
+    font-size: 18px;
+}
+
+label,button{
+    font-size: 2rem;
+    
+}
+
+button{
+    cursor: pointer;
+}
+
+
+.showData{
+    font-size: 20px;
+}
+
+.showData p{
+    border: 2px solid black;
+    height: 2.5rem;
+    width: 500px;
+    padding: 10px;
+    margin: 1rem;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+
+.record-div{
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    height: fit-content;
+    width: 82%;
+    background-color: aqua;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    
+}
+    
+    
