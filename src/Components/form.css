@@ -1,6 +1,6 @@
 body{
     background-image: linear-gradient(skyblue,pink,rgb(248, 248, 210));
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     height: 100vh;
 }
 
